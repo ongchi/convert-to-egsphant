@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'DicomToEgsphant' target in the 'DicomToEgsphant' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <AppKit/AppKit.h>
+
+#import "RampSetting.h"
+#import "Medium.h"
+
+#endif
